@@ -1,5 +1,5 @@
 # parameters
-ARG REPO_NAME="myproject"
+ARG REPO_NAME="my-project"
 ARG DESCRIPTION="My very first DuckieTown Project"
 ARG MAINTAINER="Durranee Clarke (durraneekclarke@gmail.com)"
 # pick an icon from: https://fontawesome.com/v4.7.0/icons/
