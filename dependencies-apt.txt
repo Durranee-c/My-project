@@ -1,1 +1,7 @@
 # LIST YOUR APT PACKAGES HERE
+# System tools
+curl
+git
+
+# Python development
+python3-dev
